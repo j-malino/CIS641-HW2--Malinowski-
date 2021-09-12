@@ -2,6 +2,8 @@
 
 ## Jessica Malinowski
 
+### Technical Interests
+
 - supervised and unsupervised machine learning
 - building games that incorporate statistical models  
 - new applications of technology in research
