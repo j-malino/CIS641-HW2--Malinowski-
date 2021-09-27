@@ -19,5 +19,5 @@ This repository was created in 2021 as part of a homework assignment for a gradu
 
 #### Just for Fun
 
-<a href="#"><img width="100%" height="auto" src="https://meme-generator.com/wp-content/uploads/mememe/2019/06/mememe_3c18ac1f2aae99f79e68db769c6f7181-1.jpg" height="300px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://meme-generator.com/wp-content/uploads/mememe/2019/06/mememe_3c18ac1f2aae99f79e68db769c6f7181-1.jpg" height="200px"/></a>
 
