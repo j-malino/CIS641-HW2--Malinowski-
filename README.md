@@ -1,6 +1,6 @@
 # CIS641-HW2--Malinowski-
 
-## Jessica Malinowski
+## Hi I'm Jess
 
 ### Technical Interests
 
